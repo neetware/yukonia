@@ -22,7 +22,7 @@
             <div class="container">
                 <div class="video-container">
                     <div style="display: flex;">
-                        <div style="flex: 1;">
+                        <div style="flex: 1; margin-left:10px">
                             <iframe class="video" width="960" height="540" src="https://videos.lukesmith.xyz/videos/embed/b6c70441-8453-4d15-ae2b-4157b5099d1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             <h1 style="color: lightblue; text-align: left;">HUGO Test Title</h1>
                             <div style="text-align: left;">

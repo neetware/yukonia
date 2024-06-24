@@ -3,11 +3,9 @@ html {
 	scrollbar-color: #ffffff #222222;
 }
 
-/*body {
-	max-width: 960px;
-	margin:0 auto;
+body {
+	max-width: 100%;
 }
-*/
 
 a:link, a:visited, a:active{
 	color: lightblue;
